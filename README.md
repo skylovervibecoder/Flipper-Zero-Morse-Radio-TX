@@ -1,6 +1,10 @@
 # Morse-Radio-TX
 Flipper Zero transmitter for messages in Morse code
 
+With this app you casn write a message and the app will convert it into Morse code and transmit over PMR/LPD frequencies.
+
+SOS function - if you press the down button you can send a distress morse signal.
+
 **DISCLAIMER**
 
 This application is provided strictly for testing, educational, and development purposes only.
