@@ -5,6 +5,9 @@ With this app you can write a message and the app will convert it into Morse cod
 
 SOS function - if you press the down button you can send a distress morse signal.
 
+USE ONLY IN MOMENTUM DEV
+
+
 **DISCLAIMER**
 
 This application is provided strictly for testing, educational, and development purposes only.
