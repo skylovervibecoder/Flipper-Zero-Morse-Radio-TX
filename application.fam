@@ -1,12 +1,13 @@
 App(
     appid="morse_radio_tx",
-    name="Morse Radio TX",
+    name="MorseTX",
     apptype=FlipperAppType.EXTERNAL,
     entry_point="morse_radio_tx_app",
     stack_size=4 * 1024,
     fap_category="Sub-GHz",
     fap_icon="morse_radio_tx.png",
-    fap_version="1.1",
-    fap_description="Invia testo in codice morse su canali PMR446 / LPD433, con SOS rapido",
+    fap_version="2.0",
+    fap_author="Marcopiiit",
+    fap_description="Send and receive/decode Morse code on PMR446 / LPD433 channels, with quick SOS",
     requires=["gui", "notification"],
 )
